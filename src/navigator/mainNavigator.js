@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import SignUp22089910Navigator from '../features/SignUp22089910/navigator';
 import ArticleList89893Navigator from '../features/ArticleList89893/navigator';
 import ArticleList89892Navigator from '../features/ArticleList89892/navigator';
-import ArticleList89891Navigator from '../features/ArticleList89891/navigator';
 
 /**
  * new navigators can be imported here
@@ -20,7 +19,6 @@ const AppNavigator = {
 SignUp22089910: { screen: SignUp22089910Navigator },
 ArticleList89893: { screen: ArticleList89893Navigator },
 ArticleList89892: { screen: ArticleList89892Navigator },
-ArticleList89891: { screen: ArticleList89891Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
